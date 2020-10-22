@@ -5,5 +5,5 @@ Using Java, Cucumber, Gherkin, Page Object and Page factory model created a samp
 
 How to Run Tests:
 
-From comnand line mvn clean test to run tests
+From command line 'mvn clean test'
 
